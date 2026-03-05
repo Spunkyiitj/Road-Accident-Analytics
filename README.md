@@ -1,2 +1,8 @@
-# Road-Accident-Analytics
-Road Accident Data Analysis (UK 2021–2022) using Power BI, Tableau, Excel, and SQL with interactive dashboards and trend insights.
+ROAD ACCIDENT ANALYTICS PROJECT
+
+Preview of Projects
+Project Overview
+Power BI Road Accident Dashboard:-
+<img width="2161" height="1231" alt="image" src="https://github.com/user-attachments/assets/b2e764a2-12e9-475d-aff4-64fcd5f5abb0" />
+
+
