@@ -15,7 +15,8 @@
 <img width="2553" height="1145" alt="image" src="https://github.com/user-attachments/assets/5cb2c0ad-17e2-4904-964e-fec52cdfb6ee" />
 
 **SQL Road Aciident Queries:**
-![SQL Road Accident](https://github.com/ekaterinakham/PowerBI-Tableau-Excel-SQL-Road-Accident-Analytics-Project/assets/144201262/90d9fd89-66d1-473f-9b23-92da23ba1351)
+<img width="1135" height="1313" alt="image" src="https://github.com/user-attachments/assets/1d7567d8-d991-4001-be01-3e246f890bae" />
+
 
 **Project Overview**
 
